@@ -1,0 +1,18 @@
+/*
+Theme Name: Salient Child Theme
+Theme URI: http: //mysite.com/
+Description: This is a custom child theme for Salient
+Author: My Name
+Author URI: http: //mysite.com/
+Template: salient
+Version: 0.1
+*/
+
+@font-face {
+    font-family: 'simplo_softmedium';
+    src: url('fonts/durotype_-_simplosoft-medium-webfont.woff2') format('woff2'),
+         url('fonts/durotype_-_simplosoft-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

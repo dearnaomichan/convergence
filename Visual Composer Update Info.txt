@@ -1,0 +1,3 @@
+If you're upgrading from Salient VC 4.9.2, you'll need to delete the plugin from your plugins section in the WordPress admin panel before installing the current version (5.0.1) in Appearance > Install Plugins - This is necessary due to a bug in the Salient VC 4.9.2 which prevents regular updating.
+
+Cheers!
