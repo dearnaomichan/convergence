@@ -4,6 +4,7 @@
 <html <?php language_attributes(); ?> class="no-js">
 <head>
 
+<meta name="google-site-verification" content="AEqSSKOAy8qkvLbqyTuB8AMjeQFEmvfa5-_FlbEeB8s" />
 <!-- Meta Tags -->
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 

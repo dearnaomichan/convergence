@@ -1,0 +1,28 @@
+{
+  "name": "convergence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dearnaomichan/convergence.git"
+  },
+  "keywords": [
+    "convergence",
+    "javascript",
+    "libraries",
+    "package"
+  ],
+  "author": "Naomi Chan",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/dearnaomichan/convergence/issues"
+  },
+  "homepage": "https://github.com/dearnaomichan/convergence#readme",
+  "dependencies": {
+    "p5": "^0.5.12"
+  }
+}
